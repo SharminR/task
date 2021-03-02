@@ -4,7 +4,7 @@ This is the front-end development assignment of Kodit.io
 
 ### Brief explanation of the chosen visualisation
 
-Tried to implement search functionality for individual items found in the Json Api dataset and later populate the multi-step form which leads to a a bar chart widget. Due to me getting suddenly sick with covid and trying to finish within two days, couldn't finish implementing advanced functionality.
+Tried to implement search functionality for individual items found in the Json Api dataset and later populate the multi-step form which leads to a a bar chart widget.
 
 ### Quick start
 
